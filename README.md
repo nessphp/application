@@ -1,10 +1,8 @@
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/nessphp/framework/master/Application/Content/img/ness_maintenance_mode.png">
+  <img width="120" src="https://raw.githubusercontent.com/nessphp/media-repo/master/Logo/Original/logo_ness_cut_round_notext_inner_logo.fw.png">
 </p>
 
 ## Ness PHP Framework
-> This repository contains developer builds for Ness PHP framework. Developer builds usually not healthy for production. If you want to get the last features before they are published or want to improve source code of the core framework you can use this repository. For creating a new project with last stable release of Ness PHP Framework please use the  the [project repository](https://github.com/nessphp/project).
-
 
 Welcome to Ness PHP Framework. Ness PHP is an excellent but straightforward application development framework. Ness PHP aims to help you in your coding process by speeding up development with ready to use libraries that require minimal configuration. The structure was developed based on the MVC architectural design. You can check out some key featues of the framework;
    - Easy Project And Environment Configuration; 
@@ -33,7 +31,7 @@ In simple words; it is for you...
 ## Download
 
 <blockquote>
-  composer create-project nessphp/framework
+  composer create-project nessphp/application
 </blockquote>
 You can use the composer to get the last version of Ness PHP Framework. 
 
