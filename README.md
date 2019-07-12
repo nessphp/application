@@ -15,6 +15,10 @@ Welcome to Ness PHP Framework. Ness PHP is an excellent but straightforward appl
    - Content Manager class helps you to import 3rd party resources to your web pages like; css, img, js or other html/php contents.
 
 
+## User Guide
+You can access all topics of Ness PHP's from  this link:
+[Ness PHP User Manual](https://nessphp.github.io/ "Ness PHP User Manual")
+
 ## Who is it for ?
 In simple words; it is for you...
   - It is lightweight.
