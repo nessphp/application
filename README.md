@@ -5,19 +5,25 @@
 ## Ness PHP Framework
 
 Welcome to Ness PHP Framework. Ness PHP is an excellent but straightforward application development framework. Ness PHP aims to help you in your coding process by speeding up development with ready to use libraries that require minimal configuration. The structure was developed based on the MVC architectural design. You can check out some key featues of the framework;
-   - Easy Project And Environment Configuration; 
-   - Simple Project Structure
-   - AutoPulse database automation library; This library can be used in nearly any database task of your projects.
-   - Template Engine, Master Pages & Widgets eliminates the need to write the same html code for each repetitive design every time
-   - Generate Queries with a powerful Query Builder class or simply run CRUD commands
-   - Create areas to divide big projects (Controller & View both supports Areas).
-   - Resource Class which is designed to help you to manage your static values like strings and image objects.
-   - Content Manager class helps you to import 3rd party resources to your web pages like; css, img, js or other html/php contents.
+   - [Easy Project And Environment Configuration](https://nessphp.github.io/docs/pages/configuration.html) 
+   - [Simple Project Structure](https://nessphp.github.io/docs/pages/structure.html)
+   - [AutoPulse database automation library](https://nessphp.github.io/docs/pages/autopulse.html); This library can be used in nearly any database task of your projects.
+   - [Easy Database Migration & Generation](https://nessphp.github.io/docs/pages/migrations.html)
+   - [Template Engine, Master Pages](https://nessphp.github.io/docs/pages/masterpage.html) & Widgets eliminates the need to write the same html code for each repetitive design every time
+   - [Generate Queries](https://nessphp.github.io/docs/pages/querybuilder.html) with a powerful Query Builder class or simply run CRUD commands
+   - [Create areas](https://nessphp.github.io/docs/pages/areas.html) to divide big projects (Controller & View both supports Areas).
+   - [Resource Class](https://nessphp.github.io/docs/pages/resources.html) which is designed to help you to manage your static values like strings and image objects.
+   - [Content Manager](https://nessphp.github.io/docs/pages/contentmanager.html) class helps you to import 3rd party resources to your web pages like; css, img, js or other html/php contents.
+   - [Maintenance Mode](https://nessphp.github.io/docs/pages/configuration.html#maintenance) Helps you to put your application with just one line of code to maintenance mode.
+   - [Advanced Forms Class](https://nessphp.github.io/docs/pages/forms.html) you can use Forms class for creating powerfull and [secure](https://nessphp.github.io/docs/pages/forms.html#csrf_protection) forms. 
+   - [File Uploads](https://nessphp.github.io/docs/pages/fileupload.html) are made to be easy.
+   
+   -There are lots of features to Ness PHP. You can check out the full Documentation from [this link]((https://nessphp.github.io/docs/index.html).
 
 
 ## User Guide
 You can access all topics of Ness PHP's from  this link:
-[Ness PHP User Manual](https://nessphp.github.io/ "Ness PHP User Manual")
+[Ness PHP User Manual](https://nessphp.github.io/docs/index.html "Ness PHP User Manual")
 
 ## Who is it for ?
 In simple words; it is for you...
@@ -35,11 +41,8 @@ In simple words; it is for you...
 </blockquote>
 You can use the composer to get the last version of Ness PHP Framework. 
 
-
+## Support Ness
+Ness PHP is completely free(and always will be) for anyone organisations & personal use. It's maintained under MIT LICENCE. If you want to donate our free work to support Ness PHP's developers you can [navigate here](https://www.paypal.me/sinansalichasan) to get more information.
 
 ## Contact
 For any suggestions or security vulnerabilities you can contact to  Ness PHP author via email from [nessphp@gmail.com](nessphp@gmail.com) 
-
-
-
-
