@@ -44,7 +44,7 @@ Configuration::setResourceFile('Resources.xml');
  * If your application will be a sub module/application of other application set it like:
  * "http://www.examplesite.com/my_module".
  */
-Configuration::setApplicationUrl('http://localhost/nessphp');
+Configuration::setApplicationUrl('http://localhost/application');
 
 /*
  * === [Is Application Root ] ===
