@@ -17,10 +17,7 @@ Welcome to Ness PHP Framework. Ness PHP is an excellent but straightforward appl
    - [Maintenance Mode](https://nessphp.github.io/docs/pages/configuration.html#maintenance) Helps you to put your application with just one line of code to maintenance mode.
    - [Advanced Forms Class](https://nessphp.github.io/docs/pages/forms.html) you can use Forms class for creating powerfull and [secure](https://nessphp.github.io/docs/pages/forms.html#csrf_protection) forms. 
    - [File Uploads](https://nessphp.github.io/docs/pages/fileupload.html) are made to be easy.
-   
-   -There are lots of features to Ness PHP. You can check out the full Documentation from [this link(https://nessphp.github.io/docs/index.html).
-
-
+ 
 ## User Guide
 You can access all topics of Ness PHP's from  this link:
 [Ness PHP User Manual](https://nessphp.github.io/docs/index.html "Ness PHP User Manual")
