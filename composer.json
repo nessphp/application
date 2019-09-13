@@ -1,6 +1,6 @@
 {
     "name": "nessphp/application",
-    "description": "Ness PHP; PHP MVC Framework for web developers.",
+    "description": "A brand new php framework for web world.",
     "type": "project",
     "keywords": [
         "ness",
