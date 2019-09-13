@@ -33,13 +33,12 @@
             "Ness\\": "./Ness"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6"
     },
     "support": {
         "email": "nessphp@gmail.com",
-        "docs": "https://nessphp.github.io/index.html"
+        "docs": "https://nessphp.github.io/docs/index.html"
     },
     "config": {
         "optimize-autoloader": true,
