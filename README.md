@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/nessphp/application/master/Application/Content/img/ness_logo_rounded.png">
+  <img width="120" src="https://raw.githubusercontent.com/nessphp/media-repo/master/Logo/ness_logo_text.png">
 </p>
 
 ## Ness PHP Framework
